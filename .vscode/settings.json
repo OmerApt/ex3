@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/omerapt/systems_programming/ex3",
+            "binaryPath": "/home/omerapt/systems_programming/ex3/StrList",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "strlist.h": "c"
+    }
+}
