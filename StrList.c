@@ -146,7 +146,7 @@ void StrList_print(const StrList *StrList)
             curr = curr->next;
         }
     }else{
-        printf("\n");
+        // printf("\n");
     }
 }
 

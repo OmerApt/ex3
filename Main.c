@@ -179,6 +179,7 @@ int main()
                 printf("true");
             break;
         case EXIT:
+        printf("\n");
             return 0;
             break;
         default:
